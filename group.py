@@ -25,3 +25,12 @@
 # Annelise
 
 # Devan
+
+
+#Area of circle 
+r = 2.5
+h = 0.1
+Area = np.pi * r**2
+Volume = Area * h
+
+#Do you think Volume of the circle would be greater than area?
