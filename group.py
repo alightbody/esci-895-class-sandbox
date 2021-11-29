@@ -1,6 +1,9 @@
 # Collaborative code for ESCI 895.02
 
-# Lauren D
+# Lauren D 
+l = 2
+d = 9
+m = l+d
 
 # Ashley
 
