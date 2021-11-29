@@ -12,7 +12,7 @@
 
 # Reese
 
-# Emily likes to eat pie
+# Emily
 
 # Lara
 
