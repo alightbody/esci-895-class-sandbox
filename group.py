@@ -32,4 +32,16 @@ cat = c+a+t
 print(cat)
 # Annelise
 
+import random
+x = random.randint(1,3)
+if x == 1:
+  print("Hello world!") #Classic
+else:
+  if x == 2:
+    print("Oh hey there ;)") #Flirty
+  else:
+    print("Hi...") #Unenthusiastic
+=======
+
+
 # Devan
