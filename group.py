@@ -1,6 +1,9 @@
 # Collaborative code for ESCI 895.02
 
-# Lauren D
+# Lauren D 
+l = 2
+d = 9
+m = l+d
 
 # Ashley
 
@@ -12,7 +15,7 @@
 
 # Reese
 
-# Emily
+# Emily likes to eat pie
 
 # Lara
 
@@ -21,8 +24,14 @@
 # Julia
 
 # Megan
-
+# Test Code 
+c = 35
+a = 890
+t = 44 
+cat = c+a+t
+print(cat)
 # Annelise
+
 import random
 x = random.randint(1,3)
 if x == 1:
@@ -32,4 +41,7 @@ else:
     print("Oh hey there ;)") #Flirty
   else:
     print("Hi...") #Unenthusiastic
+=======
+
+
 # Devan
