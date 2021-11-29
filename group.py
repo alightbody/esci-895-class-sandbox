@@ -21,7 +21,12 @@
 # Julia
 
 # Megan
-
+# Test Code 
+c = 35
+a = 890
+t = 44 
+cat = c+a+t
+print(cat)
 # Annelise
 
 # Devan
